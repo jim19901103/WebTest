@@ -5,8 +5,8 @@ Recent Update
 
 20160221
 
--Modify the method that link to blog page, but has a bug.
--Add Marquee Block.
+Modify the method that link to blog page, but has a bug.
+Add Marquee Block.
 
 20160130
 
